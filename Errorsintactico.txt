@@ -1,0 +1,4 @@
+
+ >>>>ANALISIS SINTACTICO<<<<
+ Linea 1 falta cerrar la etiqueta <p>
+Linea 3 falta aperturar la etiqueta </html>
